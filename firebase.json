@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/grapefrontend",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
